@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route,Routes,Link } from 'react-router-dom'
+import { Route,Routes } from 'react-router-dom'
 import Home from './component/Home'
 import About from './component/About'
 import Head from './component/Head'
